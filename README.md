@@ -2,13 +2,13 @@
 
 ## Table of Contents
 
-    Installation
+    ## Installation
     Project Motivation
     File Description
     Results
     Licensing, Authors, and Acknowledgements
 
-Installation:
+## Installation:
 
 There is no dependent python libraries to run the code. Only Anaconda distribution of Python is necessary. Code should run without any issue using Python versions 3.x and above.
 Project Motivation:
