@@ -22,7 +22,7 @@ data.csv contains lastest edition FIFA 2019 players attributes including age, Na
 To showcsae all work related to above three questions, notebook has been created.
 ## Results:
 
-The key findings of the code can be found at the post.
+The key findings of the code can be found at the post https://github.com/sidheswar12/Data-Scientist-Blog-Post.
 ## Licensing, Authors, Acknowledgements:
 
 Credit must be given to Udacity courses for some of code ideas, and also to kaggle/AirBnb for the data. Licensing for the data and other descriptive information can be found in the Kaggle link available https://www.kaggle.com/karangadiya/fifa19. Otherwise, feel free to use the code here as you would like!
