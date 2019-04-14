@@ -11,9 +11,9 @@ It would be quite interesting to apply data analysis skills here as a football f
 
 ## Key interests would be:
 
-    What is the ratio of total wages/ total potential for clubs. Which clubs are the most economical？
-    How is nation team player in total market value distributed? 
-    Which player skils set influence potential/wage? Can we predict player/player's potential based on his skills set?
+1. What is the ratio of total wages/ total potential for clubs. Which clubs are the most economical？
+2. How is nation team player in total market value distributed? 
+3. Which player skils set influence potential/wage? Can we predict player/player's potential based on his skills set?
 
 ## File Descriptions:
 
